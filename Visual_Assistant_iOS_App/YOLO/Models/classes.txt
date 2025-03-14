@@ -1,0 +1,6 @@
+green pedestrian light
+red pedestrian light
+bicycle
+car
+motorcycle
+bus
